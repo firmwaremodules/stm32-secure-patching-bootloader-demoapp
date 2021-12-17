@@ -1,0 +1,42 @@
+[submodule "Bootloader"]
+	path = Bootloader
+	url = https://github.com/firmwaremodules/stm32-secure-patching-bootloader
+[submodule "Drivers/STM32L0xx_HAL_Driver"]
+	path = Drivers/STM32L0xx_HAL_Driver
+	url = https://github.com/STMicroelectronics/stm32l0xx_hal_driver
+[submodule "Drivers/BSP/STM32L0xx_Nucleo"]
+	path = Drivers/BSP/STM32L0xx_Nucleo
+	url = https://github.com/STMicroelectronics/stm32l0xx-nucleo
+[submodule "Drivers/STM32F7xx_HAL_Driver"]
+	path = Drivers/STM32F7xx_HAL_Driver
+	url = https://github.com/STMicroelectronics/stm32f7xx_hal_driver
+[submodule "Drivers/BSP/STM32F769I-Discovery"]
+	path = Drivers/BSP/STM32F769I-Discovery
+	url = https://github.com/STMicroelectronics/32f769idiscovery
+[submodule "Drivers/BSP/Components/mx25l512"]
+	path = Drivers/BSP/Components/mx25l512
+	url = https://github.com/STMicroelectronics/stm32-mx25l512
+[submodule "Drivers/STM32F4xx_HAL_Driver"]
+	path = Drivers/STM32F4xx_HAL_Driver
+	url = https://github.com/STMicroelectronics/stm32f4xx_hal_driver
+[submodule "Drivers/STM32L4xx_HAL_Driver"]
+	path = Drivers/STM32L4xx_HAL_Driver
+	url = https://github.com/STMicroelectronics/stm32l4xx_hal_driver
+[submodule "Drivers/BSP/STM32L496G-Discovery"]
+	path = Drivers/BSP/STM32L496G-Discovery
+	url = https://github.com/STMicroelectronics/32l496gdiscovery
+[submodule "Drivers/BSP/STM32F4xx_Nucleo_144"]
+	path = Drivers/BSP/STM32F4xx_Nucleo_144
+	url = https://github.com/STMicroelectronics/stm32f4xx-nucleo-144
+[submodule "Drivers/BSP/Components/mx25r6435f"]
+	path = Drivers/BSP/Components/mx25r6435f
+	url = https://github.com/STMicroelectronics/stm32-mx25r6435f
+[submodule "Drivers/BSP/Components/mfxstm32l152"]
+	path = Drivers/BSP/Components/mfxstm32l152
+	url = https://github.com/STMicroelectronics/stm32-mfxstm32l152
+[submodule "Drivers/BSP/Components/st7789h2"]
+	path = Drivers/BSP/Components/st7789h2
+	url = https://github.com/STMicroelectronics/stm32-st7789h2
+[submodule "Drivers/BSP/Components/Common"]
+	path = Drivers/BSP/Components/Common
+	url = https://github.com/STMicroelectronics/stm32-bsp-common

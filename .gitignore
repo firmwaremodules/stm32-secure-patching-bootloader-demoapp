@@ -1,0 +1,29 @@
+## STM32CubeIDE
+*.launch
+.settings
+Debug
+Release
+
+## VS
+.vs
+*.vcxproj*
+*.sln
+
+## Workspaces
+.metadata
+RemoteSystemsTempFiles/
+
+## Generated Files
+output.txt
+
+## Application binaries
+*.bin
+*.sfb
+*.sfbp
+*.sfu
+*.sign
+Binary/
+
+## Include the cipher key
+!Cipher_Key_AES_CBC.bin
+

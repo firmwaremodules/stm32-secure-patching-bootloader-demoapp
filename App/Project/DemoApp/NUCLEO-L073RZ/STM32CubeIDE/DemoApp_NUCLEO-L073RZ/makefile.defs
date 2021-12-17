@@ -1,0 +1,8 @@
+# Inject Git build environment into the sources and as "version" argument
+# in postbuild.sh script.  The IDE generates a postbuild target in the makefile
+# that references this variable.
+VERSION_STR  := $(shell git describe --tags --dirty --always)
+# $(info Version=$(VERSION_STR))
+
+# Compiler preprocessor must define:
+# BUILD_VERSION_STR=\"$(VERSION_STR)\"
