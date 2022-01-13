@@ -40,3 +40,12 @@
 [submodule "Drivers/BSP/Components/Common"]
 	path = Drivers/BSP/Components/Common
 	url = https://github.com/STMicroelectronics/stm32-bsp-common
+[submodule "Drivers/STM32H7xx_HAL_Driver"]
+	path = Drivers/STM32H7xx_HAL_Driver
+	url = https://github.com/STMicroelectronics/stm32h7xx_hal_driver
+[submodule "Drivers/BSP/STM32H745I-DISCO"]
+	path = Drivers/BSP/STM32H745I-DISCO
+	url = https://github.com/STMicroelectronics/stm32h745i-disco
+[submodule "Drivers/BSP/Components/mx25lm51245g"]
+	path = Drivers/BSP/Components/mx25lm51245g
+	url = https://github.com/STMicroelectronics/stm32-mx25lm51245g
