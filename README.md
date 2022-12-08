@@ -2,6 +2,13 @@
 
 STM32 Secure Patching Bootloader and Firmware Update System Demonstration Application.
 
+*Please note that this repository has been deprecated in favor of the reference designs integrated with selected STM32Cube projects in the repositories found here:*
+
+* https://github.com/firmwaremodules/STM32CubeL4
+* https://github.com/firmwaremodules/STM32CubeF4
+
+<hr>
+
 ### Setup
 
 This repository uses submodules - references to other repositories - including to the [bootloader](https://github.com/firmwaremodules/stm32-secure-patching-bootloader) and to various STM32 HAL and BSP [components](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer).
